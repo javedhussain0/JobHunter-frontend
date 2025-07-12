@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/javedhussain0/JobHunter-frontend/static/css/main.afa0dd54.css",
+    "main.js": "/javedhussain0/JobHunter-frontend/static/js/main.facaa98c.js",
+    "static/media/Logo.png": "/javedhussain0/JobHunter-frontend/static/media/Logo.a1df4427095fdd304563.png",
+    "index.html": "/javedhussain0/JobHunter-frontend/index.html",
+    "main.afa0dd54.css.map": "/javedhussain0/JobHunter-frontend/static/css/main.afa0dd54.css.map",
+    "main.facaa98c.js.map": "/javedhussain0/JobHunter-frontend/static/js/main.facaa98c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa0dd54.css",
+    "static/js/main.facaa98c.js"
+  ]
+}
